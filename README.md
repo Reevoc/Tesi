@@ -1,6 +1,6 @@
 # Thesis #
 The thesis is wroted in Italian and inside you can find the link at the google colab ypnb file
-## Copyright Università Roma Tre ##
+#### Copyright Università Roma Tre
 When it comes to tackling issues in the areas of classification, regression, and non-linear control, neural networks provide a highly potent set of tools.
 Studies on information processing processes in the biological nervous system, notably the human brain, served as an inspiration for neural networks.
 In fact, a large portion of network research is focused specifically on better understanding these information processing mechanisms.
